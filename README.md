@@ -8,6 +8,10 @@ Two views, one source. An **interactive isometric map** you click around, and a
 **generated document** (`SYSTEM.md`) with the decisions table, every component,
 and every open question. Both are built from a single data file.
 
+> Companion to **[voice-ai-dashboard](https://github.com/shaileshjaiswalwins/voice-ai-dashboard)**,
+> which maps the no-code platform that configured these bots. This repo is the
+> bot; that one is the platform.
+
 ---
 
 ## Run it
