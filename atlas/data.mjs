@@ -8,7 +8,7 @@
 
 export const META = {
   title: 'Voice AI Atlas',
-  artifactUrl: 'https://claude.ai/code/artifact/fd2e7942-4904-4f3d-85ac-243d3c22bba1',
+  artifactUrl: 'https://claude.ai/code/artifact/d35d4ab4-dc99-4985-9bd9-5dc2da12f509',
   sourcePath: 'atlas/data.mjs',
   buildCmd: 'node atlas/build.mjs',
   stats: [

@@ -136,3 +136,7 @@ team designed and ran in production.
 
 The atlas format (isometric renderer, progressive disclosure, generated text
 twin) comes from the `system-atlas` skill.
+
+---
+
+**Live map:** https://claude.ai/code/artifact/d35d4ab4-dc99-4985-9bd9-5dc2da12f509

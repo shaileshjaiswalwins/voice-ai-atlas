@@ -543,4 +543,4 @@ check_outcomes_today.py, fetch_lead_debug.py, fetch_anomalies_debug.py
 
 ## How this file is maintained
 
-Generated from `atlas/data.mjs` by `node atlas/build.mjs`, which also builds the interactive atlas (`atlas.html`, published at https://claude.ai/code/artifact/fd2e7942-4904-4f3d-85ac-243d3c22bba1). Edit the data file, rebuild, republish — never edit this file by hand.
+Generated from `atlas/data.mjs` by `node atlas/build.mjs`, which also builds the interactive atlas (`atlas.html`, published at https://claude.ai/code/artifact/d35d4ab4-dc99-4985-9bd9-5dc2da12f509). Edit the data file, rebuild, republish — never edit this file by hand.
