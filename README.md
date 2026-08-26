@@ -4,6 +4,11 @@ An explorable architecture map of a production Hindi-language voice-AI system �
 an outbound phone agent that qualified marketplace buyer leads at scale, and the
 post-call pipeline that decided what each conversation was worth.
 
+![Walkthrough of the eleven chapters](media/atlas-walkthrough.gif)
+
+<sub>Eleven chapters, each adding a few components. Hover to read, click to pin,
+`→` to go inside. Recorded from the real thing — clone it and it does this.</sub>
+
 Two views, one source. An **interactive isometric map** you click around, and a
 **generated document** (`SYSTEM.md`) with the decisions table, every component,
 and every open question. Both are built from a single data file.
@@ -120,6 +125,16 @@ because there is only one source.
 
 Questions carry a state: open (a string), resolved (`{q, r}` with the answer and
 date), or routed (`{q, to}`). Currently **27 open · 9 resolved**.
+
+---
+
+## The whole system
+
+![All seventeen components at once](media/atlas-full.png)
+
+The final chapter, with every component revealed and a flow picker at bottom
+left. Regenerate the media with `node atlas/build.mjs` and re-recording the
+chapters from `atlas.html`.
 
 ---
 
